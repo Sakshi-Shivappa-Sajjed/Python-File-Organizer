@@ -1,0 +1,6 @@
+2026-08-09 00:20:07,970 - INFO - MOVED: personal info.docx \u2192 test_files\Documents\personal info.docx
+2026-08-09 00:20:07,973 - INFO - MOVED: picture.jpg \u2192 test_files\Images\picture.jpg
+2026-08-09 00:20:07,975 - INFO - MOVED: project presentation.pptx \u2192 test_files\Others\project presentation.pptx
+2026-08-09 00:20:07,977 - INFO - MOVED: README.txt \u2192 test_files\Documents\README.txt
+2026-08-09 00:20:07,979 - INFO - MOVED: resume.pdf \u2192 test_files\Documents\resume.pdf
+2026-08-09 00:20:07,984 - INFO - MOVED: song.mp3 \u2192 test_files\Audio\song.mp3
